@@ -75,5 +75,5 @@ endmodule
 
 
 
-*RESULTS*
+## RESULTS
 Hence a 4 bit synchronous up counter is implemented correctly
